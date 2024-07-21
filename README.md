@@ -8,17 +8,17 @@ To create a firebase project with realtime database and to control RGB sensor mo
 
 ## COMPONENTS
 
-1.ESP8266 NodeMCU
-2.RGB Sensor Module
-3.Jumper Wire
-4.USB cable
+<br> 1.ESP8266 NodeMCU
+<br> 2.RGB Sensor Module
+<br> 3.Jumper Wire
+<br> 4.USB cable
 
 
 ## CONNECTION
 
 ### RGB Sensor Module Pin Diagram
  
-
+![rgb module](https://github.com/user-attachments/assets/b2759b29-a7b9-40f3-a4af-60a8f0493dec)
 
 <br> - = Ground ----> GND
 <br> B ----> D2
